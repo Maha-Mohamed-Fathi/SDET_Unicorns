@@ -1,0 +1,14 @@
+pages\BasePage.class
+pages\LoginPage.class
+tests\HooksHandler.class
+pages\HomePage.class
+tests\CreateNewUserTest.class
+tests\BaseTest.class
+pages\EmployeePage.class
+platform\OrangeHRM.class
+tests\scenario2\EditAndAcceptTimeSheetStepdefs.class
+waits\WaitUntil.class
+browser\Browser.class
+pages\AdminPage.class
+driver\WebDriverSingleton.class
+tests\scenario1\CreateNewUserStepdefs.class
